@@ -97,8 +97,8 @@ Sample JSON (You do not need to connect to a backend):
 4. Make a custom `category bar` component for the breakdown sections.
 5. Loading states when toggling between tabs.
 6. Mobile responsive.
+7. Make a tooltip component for the `Support requests` tab with the following text: `Every conversation in inbox is marked as one support request. One visitor can have multiple support requests.`
 
 ### Bonus:
-1. Make a tooltip component for the `Support requests` tab with the following text: `Every conversation in inbox is marked as one support request. One visitor can have multiple support requests.`
-2. Basic transitions using only tailwind css.
-3. The sidebar and header as shown in the design.
+1. Basic transitions using only tailwind css.
+2. The sidebar and header as shown in the design.
