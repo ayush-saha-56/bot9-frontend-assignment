@@ -92,7 +92,7 @@ Sample JSON (You do not need to connect to a backend):
 
 ### Todos:
 1. Pixel perfect frontend.
-2. On changing tabs lift the state up to a URL.
+2. On changing tabs lift the state up to a URL. The URL state should persist on reload.
 3. Graph is not required.
 4. Make a custom `category bar` component for the breakdown sections.
 5. Loading states when toggling between tabs.
