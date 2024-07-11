@@ -2,7 +2,8 @@
 Code the frontend for the following analytics UI.
 
 Figma: https://www.figma.com/design/12eVe9Zeh948sZbynbQsRj/Analytics-Screen?node-id=0-1&t=28NkAsczNDghNf9B-1
-Samle JSON (You do not need to connect to a backend): 
+
+Sample JSON (You do not need to connect to a backend): 
 ```
 {
     "common": {
