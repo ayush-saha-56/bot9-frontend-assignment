@@ -95,9 +95,10 @@ Sample JSON (You do not need to connect to a backend):
 2. On changing tabs lift the state up to a URL. The URL state should persist on reload.
 3. Graph is not required.
 4. Make a custom `category bar` component for the breakdown sections.
-5. Loading states when toggling between tabs.
+5. Loading state when toggling between tabs.
 6. Mobile responsive.
 7. Make a tooltip component for the `Support requests` tab with the following text: `Every conversation in inbox is marked as one support request. One visitor can have multiple support requests.`
+8. Proper project structure.
 
 ### Bonus:
 1. Basic transitions using only tailwind css.
